@@ -1,0 +1,26 @@
+footer {
+    background-color: rgb(14, 0, 94);
+    color: rgb(235, 225, 225);
+
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+body {
+    background-color: white;
+    color: rgb(17, 17, 17);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    align-items: center;
+}
